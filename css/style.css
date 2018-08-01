@@ -472,7 +472,7 @@ border-bottom-right-radius: 3px;}
 
 .subscribe-form .error_message{ color:#e84d49; text-align:center}
 
-.subscribe-form #success_page h3,.subscribe-form #success_page p{color:#185005 }
+.subscribe-form #success_page h3,.subscribe-form #success_page p{color:#e84d49 }
 
 /*== Section Six ==*/
 
@@ -480,7 +480,7 @@ border-bottom-right-radius: 3px;}
 
 .contact-form{ padding-left:184px; padding-right:186px; margin-top:63px; padding-bottom:20px}
 
-#success_page h3,#success_page p{color:#185005 }
+#success_page h3,#success_page p{color:#e84d49 }
 
 /* Contact Form */
 
