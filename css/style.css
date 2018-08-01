@@ -254,7 +254,7 @@ header[role="header"].header-top section p{ font-size:19px; line-height:20px; fo
 
 header[role="header"].header-top section a.button-header{ display: inline-block; text-align:center; margin:0 auto; line-height:63px; font-size:16px; font-weight:400; padding:0 53px; color:#FFF; background-color:#bc0b0b; border-radius:4px; text-transform:uppercase}
 
-header[role="header"].header-top section a.button-header:hover{background-color:#5ea246; text-decoration:none}
+header[role="header"].header-top section a.button-header:hover{background-color:#e84d49; text-decoration:none}
 
 header[role="header"].header-top section a.video-button,.video-pan header a.video-button{ margin:67px auto; margin-bottom:60px; display:block; cursor:pointer; outline:none; background-color:transparent; border:3px solid #FFF; border-radius:100%; width:94px; height:94px; line-height:94px; font-size:60px; text-align:center; color:#FFF;}
 
