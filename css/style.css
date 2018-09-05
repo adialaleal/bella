@@ -252,7 +252,20 @@ header[role="header"].header-top section h2{ font-size:48px; line-height:50px; f
 
 header[role="header"].header-top section p{ font-size:19px; line-height:20px; font-weight:500; padding-top:15px}
 
-header[role="header"].header-top section a.button-header{ display: inline-block; text-align:center; margin:0 auto; line-height:63px; font-size:16px; font-weight:400; padding:0 53px; color:#FFF; background-color:#bc0b0b; border-radius:25px; text-transform:uppercase}
+header[role="header"].header-top section a.button-header{ 
+	display: inline-block;
+	text-align:center;
+	margin:0 auto;
+	line-height:63px;
+	font-size:16px;
+	font-weight:400;
+	padding:0 53px;
+	color:#FFF;
+	background-color:#bc0b0b;
+	border-radius:25px;
+	text-transform:uppercase}
+
+
 
 header[role="header"].header-top section a.button-header:hover{background-color:#e84d49; text-decoration:none}
 
